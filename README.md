@@ -1,2 +1,1 @@
-# sample-repo
-for learning
+updating
